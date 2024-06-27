@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hasil Prediksi</title>
+</head>
+<body>
+    <h1>Hasil Prediksi</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Kode</th>
+                <th>Nama Obat</th>
+                <th>Jenis Obat</th>
+                <th>Merk</th>
+                <th>Stok</th>
+                <th>Satuan</th>
+                <th>Prediksi</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+            <tr>
+                <td>{{ row['Kode'] }}</td>
+                <td>{{ row['Nama Obat'] }}</td>
+                <td>{{ row['Jenis Obat'] }}</td>
+                <td>{{ row['Merk'] }}</td>
+                <td>{{ row['Stok'] }}</td>
+                <td>{{ row['Satuan'] }}</td>
+                <td>{{ row['Prediksi'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

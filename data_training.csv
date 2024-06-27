@@ -1,0 +1,22 @@
+Kode,Nama Obat,Jenis Obat,Merk,Stok,Satuan,Keterangan
+D-001,Mefinal,Keras,Sanbe,188,Tablet,Cukup
+D-002,Amoxcillin,Generik,Sanbe,250,Tablet,Cukup
+D-003,Aspirin,Bebas Terbatas,Sanbe,40,Tablet,Tidak Cukup
+D-004,Paracetamol,Bebas Terbatas,Sanbe,20,Tablet,Tidak Cukup
+D-005,Prolic 300,Keras,Sanbe,190,Capsul,Cukup
+D-006,Dexamethasone 0.5,Generik,Kimia Farma,150,Tablet,Cukup
+D-007,Simvastatin,Generik,Hj,0,Tablet,Tidak Cukup
+D-008,Cefat,Generik,Sanbe,148,Syrup,Tidak Cukup
+D-009,Cafte Forte,Generik,Sanbe,29,Syrup,Tidak Cukup
+D-010,Tradoxik,Keras,Sanbe,50,Capsul,Tidak Cukup
+D-011,Trichodazol,Keras,Sanbe,90,Tablet,Tidak Cukup
+D-012,Methylprednisolone,Generik,Hexpharm Jaya,295,Tablet,Cukup
+D-013,Ciprofloxacin,Generik,Hexpharm Jaya,20,Tablet,Tidak Cukup
+D-014,Metformin,Generik,Hexpharm Jaya,200,Tablet,Cukup
+D-015,Meloxicam,Generik,Hexpharm Jaya,195,Tablet,Cukup
+D-016,Ethambutol,Keras,Kimia Farma,250,Tablet,Cukup
+D-017,Cotrimoxazole,Generik,Kimia Farma,40,Tablet,Tidak Cukup
+D-018,Clindamycin,Generik,Novell,80,Capsul,Tidak Cukup
+D-019,Grafanol,Keras,Gratia Farma,50,Kaplet,Tidak Cukup
+D-020,Cefadroxil,Generik,Hexpharm Jaya,90,Capsul,Tidak Cukup
+D-021,Asam Mefenamat,Generik,Sanbe,190,Tablet,Cukup

@@ -1,0 +1,13 @@
+table.data {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.data, th.data, td.data {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th.data {
+    background-color: #f2f2f2;
+}
